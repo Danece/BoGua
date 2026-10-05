@@ -1,6 +1,6 @@
-# guiding_the_unknown_path
+# BoGua
 
-A new Flutter project.
+卜卦APP（guiding_the_unknown_path）— Flutter 專案。
 
 ## Getting Started
 
