@@ -111,3 +111,8 @@ flutter:
     - family: cwTeXKai
       fonts:
         - asset: "assets/fonts/台灣cwTeX Q Kai.ttf"
+    # 單色的 ☯（U+262F）字形來源，避免手機／網頁把它換成彩色 emoji 圖示。
+    # 授權：SIL OFL 1.1（見 assets/fonts/NotoSansSymbols-OFL.txt）。
+    - family: NotoSansSymbols
+      fonts:
+        - asset: assets/fonts/NotoSansSymbols.ttf

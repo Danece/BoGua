@@ -510,6 +510,9 @@ class _TopIndicatorState extends State<_TopIndicator>
               Text(
                 '☯',
                 style: TextStyle(
+                  // 指定內建的單色符號字型；系統預設字型沒有這個字形時，
+                  // 會改用彩色 emoji 字型，畫出紫色圖示。
+                  fontFamily: 'NotoSansSymbols',
                   fontSize: symbolSize,
                   color: widget.color,
                   shadows: AppGlow.shadow(
