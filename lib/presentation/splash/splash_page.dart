@@ -222,6 +222,8 @@ class _RotatingBagua extends StatelessWidget {
       child: Text(
         _kBaguaSymbols[index],
         style: TextStyle(
+          // 指定內建字型，避免網頁版等備援字型下載時先顯示成方框。
+          fontFamily: 'NotoSansSymbols2',
           fontSize: 28,
           color: AppColors.primaryGlow,
           shadows: AppGlow.shadow(AppColors.primaryGlow).cast<Shadow>(),

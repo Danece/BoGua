@@ -96,6 +96,7 @@ class _AppHeaderSection extends StatelessWidget {
         Text(
           '☰',
           style: TextStyle(
+            fontFamily: 'NotoSansSymbols2',
             fontSize: 40,
             height: 1,
             color: AppColors.primaryGlow,

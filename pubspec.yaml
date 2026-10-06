@@ -116,3 +116,9 @@ flutter:
     - family: NotoSansSymbols
       fonts:
         - asset: assets/fonts/NotoSansSymbols.ttf
+    # 八卦符號（U+2630–2637）字形來源。內建後網頁版啟動時就會載好，不用
+    # 等執行期下載備援字型，避免下載完成前先閃出方框。
+    # 授權：SIL OFL 1.1（見 assets/fonts/NotoSansSymbols2-OFL.txt）。
+    - family: NotoSansSymbols2
+      fonts:
+        - asset: assets/fonts/NotoSansSymbols2.ttf
