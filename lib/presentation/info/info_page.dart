@@ -108,7 +108,7 @@ class _AppHeaderSection extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         Text(
-          '易經八卦占卜',
+          '道標',
           textAlign: TextAlign.center,
           style: AppTextTheme.guaTitleStyle.copyWith(
             fontSize: 26,

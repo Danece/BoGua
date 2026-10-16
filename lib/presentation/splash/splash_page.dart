@@ -144,7 +144,7 @@ class _SplashPageState extends State<SplashPage>
                     ),
                     const SizedBox(height: 32),
                     Text(
-                      '易經占卜',
+                      '道標',
                       style: AppTextTheme.guaTitleStyle.copyWith(
                         color: AppColors.primaryGlow,
                         shadows: AppGlow.shadow(

@@ -164,7 +164,7 @@ class _TitleSection extends StatelessWidget {
     return Column(
       children: [
         Text(
-          '易經占卜',
+          '道標',
           style: AppTextTheme.guaTitleStyle.copyWith(
             color: AppColors.primaryGlow,
           ),
