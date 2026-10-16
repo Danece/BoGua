@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="guiding_the_unknown_path"
+        android:label="道標"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

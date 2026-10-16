@@ -1,11 +1,11 @@
 {
-    "name": "guiding_the_unknown_path",
-    "short_name": "guiding_the_unknown_path",
+    "name": "道標",
+    "short_name": "道標",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A1B18",
+    "theme_color": "#0A1B18",
+    "description": "道標：易經八卦轉盤占卜",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

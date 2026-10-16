@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: '易經占卜',
+      title: '道標',
       theme: AppTheme.darkTheme,
       routerConfig: AppRouter.router,
     );

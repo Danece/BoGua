@@ -1,4 +1,4 @@
-package com.example.guiding_the_unknown_path
+package com.bogua.app
 
 import io.flutter.embedding.android.FlutterActivity
 
